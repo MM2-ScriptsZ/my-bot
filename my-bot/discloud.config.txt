@@ -1,0 +1,4 @@
+NAME=age-bypasser-bot
+TYPE=bot
+MAIN=app.py
+RAM=100
